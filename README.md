@@ -3,6 +3,7 @@
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 The work is donde!! https://marianoajl.github.io/Testimonials-grid-section/
+
 Result in [Frontend-Mentor challenge](https://www.frontendmentor.io/solutions/responsive-landing-page-with-css-flex-box-and-grid-QzLZdN9SU)
 
 ## Welcome! 👋
